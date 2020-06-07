@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//hola
 struct usuario{
 	int idUsuario;
 	char sUsuario;
